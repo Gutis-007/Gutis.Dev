@@ -7,7 +7,7 @@ export const Tecnologias = () => {
     <div>
       <div className='flex flex-col items-center'>
         <h1 className="text-2xl font-bold mb-1 mt-8 text-white lg:text-4xl">Tecnologias</h1>
-        <img className='mb-8' src="./public/Retangulo1.svg" alt="" />
+        <img className='mb-8' src="/Retangulo1.svg" alt="" />
       </div>
       <div className="flex flex-wrap justify-center lg:mx-32 xl:mx-64 xl:gap-4">
         <div className="flex flex-col text-center m-2 p-4 bg-violet-950 shadow-md rounded-lg text-white">
