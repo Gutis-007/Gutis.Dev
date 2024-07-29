@@ -28,7 +28,7 @@ const App = () => {
           Baixar Curriculo
         </a>      
         </div>
-        <img className=" w-64 mt-16 mb-8 lg:mt-8 lg:w-1/4  lg:mx-32" src="./src/assets/ImagenCartoon.svg" alt="Cartoon Image" />
+        <img className=" w-64 mt-16 mb-8 lg:mt-8 lg:w-1/4  lg:mx-32" src="./public/ImagenCartoon.svg" alt="Cartoon Image" />
     </div>
     
   );
