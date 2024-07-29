@@ -19,8 +19,15 @@ const App = () => {
           />
         </h1>
         <h1 className="text-1xl font-regular text-white mt-4 lg:text-4xl">E este é meu portfólio</h1>
-        <a className='bg-white  shadow-md shadow-indigo-950 hover:shadow-sky-900 hover:text-sky-500 hover:shadow-md text-slate-950 font-bold py-4 px-12 rounded mt-4' href="./src/assets/GustavoFerreira.pdf">Baixar Curriculo</a>
-      </div>
+        <a
+          className='bg-white shadow-md shadow-indigo-950 hover:shadow-sky-900 hover:text-sky-500 hover:shadow-md text-slate-950 font-bold py-4 px-12 rounded mt-4'
+          href="/GustavoFerreira.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Baixar Curriculo
+        </a>      
+        </div>
         <img className=" w-64 mt-16 mb-8 lg:mt-8 lg:w-1/4  lg:mx-32" src="./src/assets/ImagenCartoon.svg" alt="Cartoon Image" />
     </div>
     
