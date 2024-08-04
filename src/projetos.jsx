@@ -122,7 +122,7 @@ export const Blog = () => {
                 title="Study Async Card"
                 className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
               >
-                Study Async
+                  Em breve
               </a>
               <p className="mb-2 text-gray-700">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione esse eum error veritatis, molestiae natus ad quisquam debitis voluptas ipsam eius deserunt sint quam necessitatibus sapiente aperiam nulla ipsa ipsum.
