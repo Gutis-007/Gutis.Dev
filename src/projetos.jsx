@@ -10,7 +10,7 @@ export const Blog = () => {
         <div className="grid gap-8 lg:grid-cols-3 sm:max-w-sm sm:mx-auto lg:max-w-full">
           <div className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm">
             <img
-              src="https://images.pexels.com/photos/2408666/pexels-photo-2408666.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;w=500"
+              src="./StudyAsync.png"
               className="object-cover w-full h-64"
               alt=""
             />
@@ -20,37 +20,43 @@ export const Blog = () => {
                   href="/"
                   className="transition-colors duration-200 text-blue-gray-900 hover:text-deep-purple-accent-700"
                   aria-label="Category"
-                  title="traveling"
+                  title="Estudos"
                 >
-                  traveling
+                  Estudos
                 </a>
-                <span className="text-gray-600">— 28 Dec 2020</span>
+                <span className="text-gray-600"> — Abril 2024</span>
               </p>
               <a
                 href="/"
                 aria-label="Category"
-                title="Visit the East"
+                title="Study Async Card"
                 className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
               >
-                Visit the East
+                Study Async
               </a>
               <p className="mb-2 text-gray-700">
-                Sed ut perspiciatis unde omnis iste natus error sit sed quia
-                consequuntur magni voluptatem doloremque.
+              Um projeto de um sistema de estudos onde se pode criar flashcards e desafios onde se é possivel visualizar um relatorio de seu desempenho apos o desafio ser finalizado assim para ajudar a identificar aonde se pode melhorar nos estudos.
               </p>
               <a
-                href="/"
+                href="https://studyasync.vercel.app/usuarios/logar/"
                 aria-label=""
-                className="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
+                className="inline-flex items-center p-1 rounded  bg-slate-300 font-semibold transition-colors duration-200 hover:bg-slate-400"
               >
-                Learn more
+                Deploy
+              </a>
+              <a
+                href="https://github.com/Gutis-007/Study_Async"
+                aria-label=""
+                className="ml-2 inline-flex items-center p-1 rounded  bg-slate-300 font-semibold transition-colors duration-200 hover:bg-slate-400"
+              >
+                Repositorio
               </a>
             </div>
           </div>
           <div className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm">
             <img
-              src="https://images.pexels.com/photos/447592/pexels-photo-447592.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
-              className="object-cover w-full h-64"
+              src="./Decodificador de Texto.png"
+              className="object-cover w-full h-64 border-b-2 border-slate-500"
               alt=""
             />
             <div className="p-5 border border-t-0">
@@ -59,36 +65,42 @@ export const Blog = () => {
                   href="/"
                   className="transition-colors duration-200 text-blue-gray-900 hover:text-deep-purple-accent-700"
                   aria-label="Category"
-                  title="traveling"
+                  title=""
                 >
-                  traveling
+                  Estudos
                 </a>
-                <span className="text-gray-600">— 28 Dec 2020</span>
+                <span className="text-gray-600"> — Julho 2024</span>
               </p>
               <a
                 href="/"
                 aria-label="Category"
-                title="Simple is better"
+                title="Study Async Card"
                 className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
               >
-                Simple is better
+                Decoficador de Texto
               </a>
               <p className="mb-2 text-gray-700">
-                Sed ut perspiciatis unde omnis iste natus error sit sed quia
-                consequuntur magni voluptatem doloremque.
+              Este é um projeto simples de codificador e decodificador de texto desenvolvido em JavaScript. O objetivo deste projeto é permitir que os usuários insiram um texto e escolham codificar ou decodificar esse texto usando uma interface web intuitiva.
               </p>
               <a
-                href="/"
+                href="https://gutis-007.github.io/Decodificador-de-texto/"
                 aria-label=""
-                className="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
+                className="inline-flex items-center p-1 rounded  bg-slate-300 font-semibold transition-colors duration-200 hover:bg-slate-400"
               >
-                Learn more
+                Deploy
+              </a>
+              <a
+                href="https://github.com/Gutis-007/Decodificador-de-texto"
+                aria-label=""
+                className="ml-2 inline-flex items-center p-1 rounded  bg-slate-300 font-semibold transition-colors duration-200 hover:bg-slate-400"
+              >
+                Repositorio
               </a>
             </div>
           </div>
           <div className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm">
             <img
-              src="https://images.pexels.com/photos/139829/pexels-photo-139829.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+              src="./Em Breve.png"
               className="object-cover w-full h-64"
               alt=""
             />
@@ -98,30 +110,36 @@ export const Blog = () => {
                   href="/"
                   className="transition-colors duration-200 text-blue-gray-900 hover:text-deep-purple-accent-700"
                   aria-label="Category"
-                  title="traveling"
+                  title="Estudos"
                 >
-                  traveling
+                  
                 </a>
-                <span className="text-gray-600">— 28 Dec 2020</span>
+                <span className="text-gray-600"> — </span>
               </p>
               <a
                 href="/"
                 aria-label="Category"
-                title="Film It!"
+                title="Study Async Card"
                 className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
               >
-                Film It!
+                Study Async
               </a>
               <p className="mb-2 text-gray-700">
-                Sed ut perspiciatis unde omnis iste natus error sit sed quia
-                consequuntur magni voluptatem doloremque.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione esse eum error veritatis, molestiae natus ad quisquam debitis voluptas ipsam eius deserunt sint quam necessitatibus sapiente aperiam nulla ipsa ipsum.
               </p>
               <a
                 href="/"
                 aria-label=""
-                className="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
+                className="inline-flex items-center p-1 rounded  bg-slate-300 font-semibold transition-colors duration-200 hover:bg-slate-400"
               >
-                Learn more
+                Deploy
+              </a>
+              <a
+                href="/"
+                aria-label=""
+                className="ml-2 inline-flex items-center p-1 rounded  bg-slate-300 font-semibold transition-colors duration-200 hover:bg-slate-400"
+              >
+                Repositorio
               </a>
             </div>
           </div>
