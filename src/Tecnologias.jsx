@@ -1,4 +1,4 @@
-import React from 'react';
+ 
 import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaJava, FaPython } from 'react-icons/fa';
 import { SiDjango, SiTailwindcss, SiGit, SiFigma } from 'react-icons/si';
 
